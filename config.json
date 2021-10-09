@@ -1,7 +1,7 @@
 {
     "prefix":"$",
-    "token":"bot-token",
+    "token":"ODk2NDQyMzYwNDI1MjQ2Nzcx.YWHLAQ.aQfnMAN08RPf57ycd2YKkRXf4QA",
     "url":"mongo-db-url",
-    "dbName":"db-name",
+    "dbName":"Arcadia Tickets",
     "paypal_email": "your-paypal-email"
 }
